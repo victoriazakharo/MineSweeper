@@ -1,0 +1,6 @@
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\bin\Debug\minesweeper.exe
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\bin\Debug\minesweeper.pdb
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\obj\x86\Debug\minesweeper.Properties.Resources.resources
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\obj\x86\Debug\minesweeper.csproj.GenerateResource.Cache
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\obj\x86\Debug\minesweeper.exe
+D:\old-D\Visual Studio 2010 Projects\C#\minesweeper\minesweeper\obj\x86\Debug\minesweeper.pdb
